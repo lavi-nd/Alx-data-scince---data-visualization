@@ -1,1 +1,1 @@
-# Alx-data-scince---data-visualization
+# Alx-data-science---data-visualization

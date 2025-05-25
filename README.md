@@ -37,3 +37,6 @@ Urban Tap Usage: 2,989,766 individuals relying on shared urban taps.
 Rural Water Accessibility: Only 7.55% of rural residents had functional taps at home.
 Data Visualization
 Using Power BI, various visualizations were created:
+
+![image](https://github.com/user-attachments/assets/b6de19c0-2f23-446a-9b13-e949be93c571)
+

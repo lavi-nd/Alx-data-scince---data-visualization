@@ -40,3 +40,6 @@ Using Power BI, various visualizations were created:
 
 ![image](https://github.com/user-attachments/assets/b6de19c0-2f23-446a-9b13-e949be93c571)
 
+![image](https://github.com/user-attachments/assets/d37f13bd-d89a-470c-8b12-a5598fb533ff)
+
+

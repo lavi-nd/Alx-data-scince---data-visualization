@@ -1,4 +1,4 @@
-# Alx-data science-data visualization
+# Alx-data-science-data-visualisation
 Introduction
 
 Project Overview

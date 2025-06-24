@@ -1,5 +1,5 @@
 # Alx-data-science-data-visualisation
-Introduction
+**Introduction**
 
 Project Overview
 
